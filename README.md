@@ -1,2 +1,2 @@
 # dbreverse
-mysql数据库转go代码
+数据库转go代码
