@@ -1,6 +1,6 @@
 package main
 
-import "github.com/liuyong-go/dbreverse"
+import "github.com/liuyong-go/dbreverse/dbreverse"
 
 func main() {
 	var tables = []string{"users", "roles", "apis"}
